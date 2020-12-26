@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared_heyopeops"
+                 "value":"shared_minequest"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.nyan.cat\/"
+                 "value":"http:\/\/www.minequest.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -270,7 +270,7 @@
          "value":"https:\/\/www.minequest.de"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
