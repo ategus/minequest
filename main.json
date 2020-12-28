@@ -56,6 +56,12 @@
          "id":20,
          "name":"geheim",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"geheim.json#start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
